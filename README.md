@@ -1,5 +1,5 @@
 # CyberSecurity-lab-2
-Firstl, we use target machine(Metasploit2) to find our target ip and we get "inet: 10.0.2.15"
+Firstly, we use target machine(Metasploit2) to find our target ip and we get "inet: 10.0.2.15"
 ![image alt](https://github.com/AlizadaUlvi/CyberSecurity-lab-2/blob/89cc8c27928a39aca54ccdc020e2eb97ecdd3a0e/Metasploit2.jpg)
 After we get our target, we start our tasks.
 1. Host Discovery Using Nmap. "nmap -sn "target ip"/24" command.
@@ -19,4 +19,7 @@ After we get our target, we start our tasks.
 
 4.Operating System Detection. "nmap -o "target ip"" command.
 ![image alt](https://github.com/AlizadaUlvi/CyberSecurity-lab-2/blob/d243326010ab25c3c13fad38b48616e5e7bc1d7f/OS%20detection/nmap%20-o%20target%20ip.jpg)
+
+5.Banner Grabbing with Netcat.
+![imag alt](https://github.com/AlizadaUlvi/CyberSecurity-lab-2/blob/c8d73fdef33eb4880b27270cd34440f9b5f98675/Netcat.jpg)
 
