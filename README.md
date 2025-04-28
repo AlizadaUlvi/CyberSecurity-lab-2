@@ -8,4 +8,5 @@
 ![image alt](https://github.com/AlizadaUlvi/CyberSecurity-lab-2/blob/adf07e603acac6ba721a9d137b47d6d0e49ba418/service%20and%20version%20info/nmap%20-sV%20target%20ip.jpg)
 ![image alt](https://github.com/AlizadaUlvi/CyberSecurity-lab-2/blob/7569218220a8d014558cd9e3c51f5e0ee8e5196d/service%20and%20version%20info/nmap%20-sV%20target%20ip%20(2).jpg)
 ![image alt](https://github.com/AlizadaUlvi/CyberSecurity-lab-2/blob/7e8d776c9c877315ed819da20e284f55600e88b9/service%20and%20version%20info/nmap%20-sV%20target%20ip%20(1).jpg)
+![image alt](https://github.com/AlizadaUlvi/CyberSecurity-lab-2/blob/d243326010ab25c3c13fad38b48616e5e7bc1d7f/OS%20detection/nmap%20-o%20target%20ip.jpg)
 
