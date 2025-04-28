@@ -5,4 +5,5 @@
 ![image alt](https://github.com/AlizadaUlvi/CyberSecurity-lab-2/blob/e6d528b1f6afa8d0e77e77279e8f260dd33d7067/Ping%20Scan/nmap%20-sn%20target%20ip%20(4).jpg)
 ![image alt](https://github.com/AlizadaUlvi/CyberSecurity-lab-2/blob/a0accbed947b62b551c48ffdb6d5659af14db152/TCP%20SYN%20Scan/nmap%20-sS%20target%20ip.jpg)
 ![image alt](https://github.com/AlizadaUlvi/CyberSecurity-lab-2/blob/426faf323bd8b4bd219f6b0537223ed7b8befde3/TCP%20SYN%20Scan/nmap%20-sS%20target%20ip%20(1).jpg)
+![image alt](https://github.com/AlizadaUlvi/CyberSecurity-lab-2/blob/adf07e603acac6ba721a9d137b47d6d0e49ba418/service%20and%20version%20info/nmap%20-sV%20target%20ip.jpg)
 
